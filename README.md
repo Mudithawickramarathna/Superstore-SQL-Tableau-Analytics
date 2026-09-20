@@ -67,3 +67,17 @@ The project demonstrates practical skills in **data analysis, SQL querying, data
 
 BSc (Hons) Statistics
 University of Jaffna
+
+## 📊 Dashboard Screenshots
+
+### 1. Sales Performance
+
+![Sales Performance](sql/images/sales_performance.png)
+
+### 2. Profit & Discount Analysis
+
+![Profit & Discount Analysis](sql/images/profit_discount_analysis.png)
+
+### 3. Customer & Product Analysis
+
+![Customer & Product Analysis](sql/images/customer_product_analysis.png)
