@@ -81,3 +81,11 @@ University of Jaffna
 ### 3. Customer & Product Analysis
 
 ![Customer & Product Analysis](sql/images/customer_product_analysis.png)
+
+## 🔍 Key Business Insights
+
+- Identified differences in sales and profitability across customer segments and regions.
+- Analyzed the relationship between discounts and profit to identify potentially unprofitable discount levels.
+- Compared product-level sales performance to identify top-performing products.
+- Examined category and sub-category performance to identify areas with stronger sales.
+- Compared customer sales and profit to understand customer-level profitability.
